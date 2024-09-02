@@ -1,12 +1,14 @@
-.. Dash Documentation
+.. dashborad-teste documentation master file, created by
+   sphinx-quickstart on Mon Sep  2 10:02:41 2024.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
 
-=======================
-DocumentaÃ§Ã£o do Dashboard
-=======================
+dashborad-teste documentation
+=============================
 
 .. toctree::
    :maxdepth: 2
-   :caption: ConteÃºdo:
+   :caption: Conteúdo:
 
    introducao
    instalacao
@@ -17,15 +19,15 @@ DocumentaÃ§Ã£o do Dashboard
    contribuicao
    faq
 
-IntroduÃ§Ã£o
+Introdução
 ==========
 
-Bem-vindo Ã  documentaÃ§Ã£o oficial do Dashboard para VisualizaÃ§Ã£o de Dados de Modelos de Machine Learning usando o framework Dash do Python.
+Bem-vindo à documentação oficial do Dashboard para Visualização de Dados de Modelos de Machine Learning usando o framework Dash do Python.
 
-InstalaÃ§Ã£o
+Instalação
 ==========
 
-Para instalar o Dashboard, vocÃª pode usar o pip:
+Para instalar o Dashboard, você pode usar o pip:
 
 .. code-block:: bash
 
@@ -34,30 +36,30 @@ Para instalar o Dashboard, vocÃª pode usar o pip:
 Uso
 ===
 
-Nesta seÃ§Ã£o, vocÃª aprenderÃ¡ como usar o Dashboard para visualizar dados de modelos de machine learning. Abordaremos como carregar e exibir os resultados dos modelos, interagir com os grÃ¡ficos e personalizar a aparÃªncia do dashboard.
+Nesta seção, você aprenderá como usar o Dashboard para visualizar dados de modelos de machine learning. Abordaremos como carregar e exibir os resultados dos modelos, interagir com os gráficos e personalizar a aparência do dashboard.
 
 Exemplos
 ========
 
-Aqui estÃ£o alguns exemplos prÃ¡ticos de como utilizar o Dashboard para visualizar diferentes tipos de dados e resultados de modelos de machine learning.
+Aqui estão alguns exemplos práticos de como utilizar o Dashboard para visualizar diferentes tipos de dados e resultados de modelos de machine learning.
 
 Modelos
 =======
 
-Nesta seÃ§Ã£o, discutiremos como integrar modelos de machine learning ao Dashboard e exibir suas previsÃµes de forma interativa.
+Nesta seção, discutiremos como integrar modelos de machine learning ao Dashboard e exibir suas previsões de forma interativa.
 
-ReferÃªncia da API
+Referência da API
 =================
 
-Aqui vocÃª encontrarÃ¡ a documentaÃ§Ã£o detalhada de todas as classes, mÃ©todos e parÃ¢metros disponÃ­veis no Dashboard.
+Aqui você encontrará a documentação detalhada de todas as classes, métodos e parâmetros disponíveis no Dashboard.
 
-ContribuiÃ§Ã£o
+Contribuição
 ============
 
-Gostaria de contribuir para o Dashboard? Excelente! Aqui estÃ£o algumas maneiras de ajudar o projeto e orientaÃ§Ãµes sobre como enviar suas contribuiÃ§Ãµes.
+Gostaria de contribuir para o Dashboard? Excelente! Aqui estão algumas maneiras de ajudar o projeto e orientações sobre como enviar suas contribuições.
 
 FAQ (Perguntas Frequentes)
 ===========================
 
-Se vocÃª tiver dÃºvidas sobre o Dashboard, verifique esta seÃ§Ã£o para ver se sua pergunta jÃ¡ foi respondida.
+Se você tiver dúvidas sobre o Dashboard, verifique esta seção para ver se sua pergunta já foi respondida.
 
